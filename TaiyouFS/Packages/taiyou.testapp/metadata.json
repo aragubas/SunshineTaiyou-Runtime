@@ -1,0 +1,10 @@
+{
+  "author": "taiyou",
+  "title": "Test Application",
+  "id": "taiyou.testapp",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
